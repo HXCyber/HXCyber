@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭🚀 About Me👋 Hi there, I’m [Your Name]!I am an aspiring [Your Role, e.g., Full-Stack Developer / Frontend Engineer / Data Analyst] actively seeking my first professional career opportunity.I love building clean, efficient, and user-friendly applications. Having spent the last [Timeframe, e.g., 2 years / 6 months] mastering modern technologies, I am ready to bring my dedication, problem-solving skills, and fresh perspective to a collaborative engineering team. I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭🚀 About Me👋 Hi there, I’m Myriam Id Elmahjoub!I am an aspiring intern front-developer, actively seeking my first professional career opportunity.I love building clean, efficient, and user-friendly applications. Having spent the past month mastering modern technologies, I am ready to bring my dedication, problem-solving skills, and fresh perspective to a collaborative engineering team. I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
